@@ -1,0 +1,18 @@
+{
+	"dirBaseCheckout": "/home/mateus/development/personal/repositories/",
+	"mavenHome": "/usr/local/bin",
+	"goals": [
+		"clean",
+		"install",
+		"-U",
+		"-Dfile.encoding=UTF-8"
+	],
+	"localRepository": {
+		"enable": false,
+		"maxAgeFiles": 30,
+		"path": "/home/mateus/.m2/repository/"
+	},
+	"modules": [
+	],
+	"throwFailure": true
+}

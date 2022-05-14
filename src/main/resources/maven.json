@@ -1,0 +1,18 @@
+{
+	"dirBaseCheckout": "/Users/mateusvoltolim/development/ifood/repositories/",
+	"goals": [
+		"clean",
+		"install",
+		"-U",
+		"-Dfile.encoding=UTF-8"
+	],
+	"localRepository": {
+		"enable": false,
+		"maxAgeFiles": 30,
+		"path": "/Users/mateusvoltolim/.m2/repository/tools"
+	},
+	"modules": [
+		"marketplace-merchant"
+	],
+	"throwFailure": true
+}
